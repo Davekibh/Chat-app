@@ -8,3 +8,6 @@ All you need to do is fork this code and open Android Studio and run.
 
 Enjoy the Output and Happy Coding!
 
+Features like share images and Logout will be added soon!
+
+Happy coding!
