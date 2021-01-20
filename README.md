@@ -8,6 +8,8 @@ All you need to do is fork this code and open Android Studio and run.
 
 Enjoy the Output and Happy Coding!
 
+I have used Back4App as a backend
+
 Features like share images and Logout will be added soon!
 
 Happy coding!
